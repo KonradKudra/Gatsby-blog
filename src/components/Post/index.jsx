@@ -1,7 +1,10 @@
 import React from 'react'
 import { Link } from 'gatsby'
 import moment from 'moment'
+import 'moment/locale/pl'  // without this line it didn't work
+moment.locale('pl')
 import './style.scss'
+
 
 class Post extends React.Component {
   render() {
