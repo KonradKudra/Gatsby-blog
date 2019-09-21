@@ -7,27 +7,27 @@ module.exports = {
   siteMetadata: {
     url,
     siteUrl: url,
-    title: 'Blog by John Doe',
+    title: 'Blog programistyczny - Konrad Kudra',
     subtitle:
-      'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+      'Web dev',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [
       {
-        label: 'Articles',
+        label: 'Artykuły',
         path: '/',
       },
       {
-        label: 'About me',
-        path: '/about/',
+        label: 'O mnie',
+        path: '/o-mnie/',
       },
       {
-        label: 'Contact me',
-        path: '/contact/',
+        label: 'Kontakt ze mną',
+        path: '/kontakt/',
       },
     ],
     author: {
-      name: 'John Doe',
+      name: 'Konrad Kudra',
       email: '#',
       telegram: '#',
       twitter: '#',
