@@ -9,7 +9,7 @@ module.exports = {
     siteUrl: url,
     title: 'Blog programistyczny - Konrad Kudra',
     subtitle:
-      'Web dev',
+      'Programista - webdeveloper, postanowiłem spróbować postawić pierwszego bloga w bardziej współczesnej technologii niż wordpress',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [
@@ -22,7 +22,7 @@ module.exports = {
         path: '/o-mnie/',
       },
       {
-        label: 'Kontakt ze mną',
+        label: 'Kontakt',
         path: '/kontakt/',
       },
     ],
